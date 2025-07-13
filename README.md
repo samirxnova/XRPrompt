@@ -24,7 +24,7 @@
 
 </div>
 
-## 🌟 **What is Xplicit?**
+## 🌟 **What is XRPrompt?**
 
 **XRPrompt** is a next-generation web application that revolutionizes XRP transactions through the power of **Natural Language Processing**. Gone are the days of complex transaction forms – simply type commands like *"Send 25 XRP to rPEPPER7kfTD9w2To4CQk6UCfuHM9c6GDY"* and watch the magic unfold!
 
