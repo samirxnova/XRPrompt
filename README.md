@@ -26,7 +26,7 @@
 
 ## 🌟 **What is Xplicit?**
 
-**Xplicit** is a next-generation web application that revolutionizes XRP transactions through the power of **Natural Language Processing**. Gone are the days of complex transaction forms – simply type commands like *"Send 25 XRP to rPEPPER7kfTD9w2To4CQk6UCfuHM9c6GDY"* and watch the magic unfold!
+**XRPrompt** is a next-generation web application that revolutionizes XRP transactions through the power of **Natural Language Processing**. Gone are the days of complex transaction forms – simply type commands like *"Send 25 XRP to rPEPPER7kfTD9w2To4CQk6UCfuHM9c6GDY"* and watch the magic unfold!
 
 <br>
 
@@ -34,7 +34,7 @@
 
 > *"Simplicity is the ultimate sophistication"* - Leonardo da Vinci
 
-Xplicit embodies this philosophy by combining cutting-edge blockchain technology with an intuitive, conversational interface that makes XRP transactions as easy as sending a text message.
+XRPrompt embodies this philosophy by combining cutting-edge blockchain technology with an intuitive, conversational interface that makes XRP transactions as easy as sending a text message.
 
 <br>
 
@@ -94,9 +94,9 @@ Xplicit embodies this philosophy by combining cutting-edge blockchain technology
 <div align="center">
 
 ### 🏠 **Main Interface**
-*The heart of Xplicit - where natural language meets blockchain technology*
+*The heart of XRPrompt - where natural language meets blockchain technology*
 
-
+<img width="946" height="431" alt="xr1" src="https://github.com/user-attachments/assets/2fd91b80-60fa-4dd5-baaa-1812fa0bc719" />
 
 
 <br>
@@ -104,6 +104,9 @@ Xplicit embodies this philosophy by combining cutting-edge blockchain technology
 ### 💬 **Chat Interface in Action**
 *Experience the power of conversational XRP transactions*
 
+<img width="944" height="431" alt="xr2" src="https://github.com/user-attachments/assets/33bf5aaa-e025-4aba-8c47-edb167af26b5" />
+
+<img width="959" height="431" alt="xr3" src="https://github.com/user-attachments/assets/acf5c6be-7a21-40e9-86c8-8909bfe313e6" />
 
 
 <br>
@@ -111,7 +114,9 @@ Xplicit embodies this philosophy by combining cutting-edge blockchain technology
 ### 📊 **Account Dashboard**
 *Comprehensive wallet management and transaction history*
 
+<img width="945" height="433" alt="xr4" src="https://github.com/user-attachments/assets/ff138b92-8dfa-41c2-aa7c-26d1ced5e21d" />
 
+<img width="946" height="432" alt="xr5" src="https://github.com/user-attachments/assets/000d67be-0536-4c87-a47b-7d461886db26" />
 
 
 </div>
